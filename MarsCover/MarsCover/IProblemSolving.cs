@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 namespace MarsCover {
-    internal interface IProblemSolving {
-        void findLocation(KeyValuePair<ulong, ulong> sizeOfPlateau, List<Rover> rovers);
+    public interface IProblemSolving {
+        List<Rover> findLocation(KeyValuePair<ulong, ulong> sizeOfPlateau, List<Rover> rovers);
     }
 }

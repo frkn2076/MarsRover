@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "CFjRnThgbfDLsc0bAxQvrR5Pac2LwNLIMREN5pUtFUJPiRpTvj8eP/OAOzDRWWaf6X+BV9lnOyC9WnTjkVCzcg==",
+  "dgSpecHash": "5Is+cvkGWvLl8X8xmtwfo4eL/NOFDxFFDBc9F+9BiAQ7GoK2QIn5a9eXZ/h1KRI+aUpkpvJYQ8gU2IUzd7FXLA==",
   "success": true,
   "projectFilePath": "C:\\.NETProjects\\MarsRover\\MarsCover\\MarsRoverTesting\\MarsRoverTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Furkan\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
     "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

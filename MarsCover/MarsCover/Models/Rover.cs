@@ -1,31 +1,25 @@
 ﻿using MarsRover.DefinedExceptions;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace MarsRover.Models {
     public class Rover {
-        public ulong xCoordinate;
-        public ulong yCoordinate;
+        public long xCoordinate;
+        public long yCoordinate;
         public Compass compass;
-        public List<Direction> orders;
-        public Rover(ulong xCoordinate, ulong yCoordinate, char direction, string order) {
-            if (xCoordinate == 0 || yCoordinate == 0)
-                throw new InvalidPlateauException();
+        public string order;
+        public Rover(long xCoordinate, long yCoordinate, char compass, string order) {
             this.xCoordinate = xCoordinate;
             this.yCoordinate = yCoordinate;
 
-            if (!Enum.IsDefined(typeof(Compass), char.ToString(direction)))
+            if (!Enum.IsDefined(typeof(Compass), char.ToString(compass)))
                 throw new UnexpectedInputException();
-            this.compass = Enum.Parse<Compass>(char.ToString(direction));
+            this.compass = Enum.Parse<Compass>(char.ToString(compass));
 
-            if(order != null && order.Any(c=> !Enum.IsDefined(typeof(Direction), char.ToString(c))))
-                throw new UnexpectedInputException();
-            orders = order.Select(c=> Enum.Parse<Direction>(char.ToString(c))).ToList();
+            this.order = order;
         }
 
-        public void printPositons() {
-            Console.WriteLine($"{xCoordinate} {yCoordinate} {compass}");
+        public string getPositon() {
+            return $"{xCoordinate} {yCoordinate} {compass}";
         }
     }
 }

@@ -24,7 +24,8 @@ namespace MarsCover {
             var rover2 = new Rover(3, 3, 'E', "MMRMMRMRRM");
             var rovers = new List<Rover>() { rover1, rover2 };
 
-            problemSolving.findLocation(sizeOfPlateau, rovers);
+            var roverList = problemSolving.findLocation(sizeOfPlateau, rovers);
+            roverList.ForEach(x => Console.WriteLine(x.getPositon()));
         }
         static void GlobalExceptionHandler(object sender, UnhandledExceptionEventArgs e) {
             if (e?.ExceptionObject is DefinedException) {
