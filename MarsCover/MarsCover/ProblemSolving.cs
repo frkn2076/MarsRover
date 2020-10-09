@@ -17,8 +17,10 @@ namespace MarsCover {
             foreach (var rover in rovers) {
                 if (!string.IsNullOrEmpty(rover.order)) {
                     //Removed repetive inverse operations to increase performance
-                    rover.order = rover.order.Replace("RL", "");
-                    rover.order = rover.order.Replace("LR", "");
+                    while(rover.order.Contains("LR") || rover.order.Contains("RL")) {
+                        rover.order = rover.order.Replace("RL", "");
+                        rover.order = rover.order.Replace("LR", "");
+                    }
 
                     var orders = rover.order.Select(c => Enum.Parse<Direction>(char.ToString(c))).ToList();
                     foreach (var order in orders) {

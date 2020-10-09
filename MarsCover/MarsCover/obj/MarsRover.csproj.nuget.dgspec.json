@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.NETProjects\\MarsRover\\MarsCover\\MarsCover\\MarsRover.csproj": {}
+    "C:\\.NETProjects\\MarsRover\\MarsRover\\MarsCover\\MarsCover\\MarsRover.csproj": {}
   },
   "projects": {
-    "C:\\.NETProjects\\MarsRover\\MarsCover\\MarsCover\\MarsRover.csproj": {
+    "C:\\.NETProjects\\MarsRover\\MarsRover\\MarsCover\\MarsCover\\MarsRover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.NETProjects\\MarsRover\\MarsCover\\MarsCover\\MarsRover.csproj",
+        "projectUniqueName": "C:\\.NETProjects\\MarsRover\\MarsRover\\MarsCover\\MarsCover\\MarsRover.csproj",
         "projectName": "MarsRover",
-        "projectPath": "C:\\.NETProjects\\MarsRover\\MarsCover\\MarsCover\\MarsRover.csproj",
+        "projectPath": "C:\\.NETProjects\\MarsRover\\MarsRover\\MarsCover\\MarsCover\\MarsRover.csproj",
         "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-        "outputPath": "C:\\.NETProjects\\MarsRover\\MarsCover\\MarsCover\\obj\\",
+        "outputPath": "C:\\.NETProjects\\MarsRover\\MarsRover\\MarsCover\\MarsCover\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

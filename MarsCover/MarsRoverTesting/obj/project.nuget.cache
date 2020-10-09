@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Is+cvkGWvLl8X8xmtwfo4eL/NOFDxFFDBc9F+9BiAQ7GoK2QIn5a9eXZ/h1KRI+aUpkpvJYQ8gU2IUzd7FXLA==",
+  "dgSpecHash": "vkp8JuIdcCHbqgrT1cTvc9kc7x0WRZbxiIg7jWEusbACsJ6iAlfJRRLvdczz+sEMnlhu2/KPqo+Ke+VpQ45Aaw==",
   "success": true,
-  "projectFilePath": "C:\\.NETProjects\\MarsRover\\MarsCover\\MarsRoverTesting\\MarsRoverTesting.csproj",
+  "projectFilePath": "C:\\.NETProjects\\MarsRover\\MarsRover\\MarsCover\\MarsRoverTesting\\MarsRoverTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Furkan\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
