@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TVPH+6doxZG4vs+W4KSV6Z2FPg3KzLX0Syr5BqFAADXMGiqXyLju5K/HbF+eZSpCBUI0XgSRpkQtCzNq2meutA==",
+  "success": true,
+  "projectFilePath": "C:\\.NETProjects\\MarsRover\\MarsCover\\MarsCover\\MarsRover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\.NETProjects\MarsRover\MarsCover\MarsCover\bin\Debug\netcoreapp3.1\MarsCover.exe
+C:\.NETProjects\MarsRover\MarsCover\MarsCover\obj\Debug\netcoreapp3.1\MarsCover.csprojAssemblyReference.cache
+C:\.NETProjects\MarsRover\MarsCover\MarsCover\obj\Debug\netcoreapp3.1\MarsCover.AssemblyInfoInputs.cache
+C:\.NETProjects\MarsRover\MarsCover\MarsCover\obj\Debug\netcoreapp3.1\MarsCover.AssemblyInfo.cs
+C:\.NETProjects\MarsRover\MarsCover\MarsCover\obj\Debug\netcoreapp3.1\MarsCover.csproj.CoreCompileInputs.cache
+C:\.NETProjects\MarsRover\MarsCover\MarsCover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\.NETProjects\MarsRover\MarsCover\MarsCover\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\.NETProjects\MarsRover\MarsCover\MarsCover\obj\Debug\netcoreapp3.1\MarsCover.csproj.CopyComplete
